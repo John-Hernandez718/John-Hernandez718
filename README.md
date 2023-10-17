@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/John-Hernandez718">Programmer</a>, <br/><a href="https://linkedin.com/John-Hernandez539a331a9/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm John! <br/><a href="https://github.com/John-Hernandez718">Programmer</a>, <br/><a href="https://linkedin.com/John-Hernandez-539a331a9/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 IT projects:</h2>
 
