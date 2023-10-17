@@ -11,6 +11,8 @@
 
 [Google CyberSecurity](https://www.credly.com/badges/29821bff-1311-4697-90a5-905d27503625/linked_in_profile)
 
+[Google Project Management](https://www.credly.com/badges/f6e648d9-018f-483c-a54b-d00362fc3951/linked_in_profile)
+
 
 [Google Data Analytics](https://www.credly.com/badges/5db17ba2-13b6-4a8a-bfa8-7c61c4e9c468/linked_in_profile)
 
