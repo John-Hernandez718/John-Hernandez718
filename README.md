@@ -7,7 +7,7 @@
 <h2>- Certifications:</h2>
 [Google IT Support Professional(https://www.credly.com/badges/0e1b1d01-35d9-45f6-b117-c9e0421735b7/linked_in_profile)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Tutorial] [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
