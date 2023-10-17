@@ -6,9 +6,13 @@
 
 <h2>- Certifications:</h2>
 
-[Google IT Support Professional(https://www.credly.com/badges/0e1b1d01-35d9-45f6-b117-c9e0421735b7/linked_in_profile)
 
-[Google Cybersecurity](https://www.credly.com/badges/29821bff-1311-4697-90a5-905d27503625/linked_in_profile)
+[Google IT Support Professional](https://www.credly.com/badges/0e1b1d01-35d9-45f6-b117-c9e0421735b7/linked_in_profile)
+
+[Google CyberSecurity](https://www.credly.com/badges/29821bff-1311-4697-90a5-905d27503625/linked_in_profile)
+
+
+[Google Data Analytics](https://www.credly.com/badges/5db17ba2-13b6-4a8a-bfa8-7c61c4e9c468/linked_in_profile)
 
 <h2>📺 YouTube Videos</h2>
 
