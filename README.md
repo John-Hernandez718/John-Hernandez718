@@ -1,10 +1,10 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/John-Hernandez718">Programmer Advocate</a>, <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9/">Cybersecurity Professional</a>, <a ">Content Creater</a></h1>
+<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9/">Cybersecurity Professional</a>, <a ">Content Creater</a></h1>
 
-<h2>👨‍💻 IT projects:</h2>
+<h2> IT projects:</h2>
 
   [Wireshark](https://github.com/John-Hernandez718/Wireshark)
 
-<h2>- Certifications:</h2>
+<h2> Certifications:</h2>
 
 
 [Google IT Support Professional](https://www.credly.com/badges/0e1b1d01-35d9-45f6-b117-c9e0421735b7/linked_in_profile)
@@ -16,12 +16,12 @@
 
 [Google Data Analytics](https://www.credly.com/badges/5db17ba2-13b6-4a8a-bfa8-7c61c4e9c468/linked_in_profile)
 
-<h2>📺 YouTube Videos</h2>
+<h2> Youtube videos</h2>
 
 - [Coming soon]
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 
 
