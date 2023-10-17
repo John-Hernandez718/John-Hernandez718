@@ -28,7 +28,7 @@
 [twitter]: https://twitter.com/John13Hernandez
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: (https://www.linkedin.com/in/john-hernandez-539a331a9/)
+[linkedin]: https://www.linkedin.com/in/john-hernandez-539a331a9/
 
 
 [<img align="left" alt="John13Hernandez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
