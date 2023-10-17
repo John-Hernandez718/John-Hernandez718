@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT projects:</h2>
 
-  - Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  [Wireshark](https://github.com/John-Hernandez718/Wireshark)
 
 <h2>- Certifications:</h2>
 
