@@ -3,6 +3,8 @@
 <h2> IT projects:</h2>
 
   [Wireshark](https://github.com/John-Hernandez718/Wireshark)
+  
+  [Password_generator](https://github.com/John-Hernandez718/password_generator)
 
 <h2> Certifications:</h2>
 
