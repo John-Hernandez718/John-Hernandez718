@@ -18,6 +18,10 @@
 
 [Google Data Analytics](https://www.credly.com/badges/5db17ba2-13b6-4a8a-bfa8-7c61c4e9c468/linked_in_profile)
 
+[Microsoft Cybersecurity Analyst Specialization](https://www.coursera.org/account/accomplishments/specialization/524N2TXFWU22)
+
+[Microsoft Azure Security Engineer Associate (AZ-500) Specialization](https://www.coursera.org/account/accomplishments/specialization/WBZM2CCFAM3E)
+
 <h2> Youtube videos</h2>
 
 - [Coming soon]
