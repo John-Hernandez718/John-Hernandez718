@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9/">Cybersecurity Proffesional <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9</ a>, <a ">IT Proffesional</a></h1>
+<h1>Hi, I'm John! <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9/">Cybersecurity Proffesional <br/><a href="https://www.linkedin.com/in/john-hernandez-539a331a9/ a>, <a ">IT Proffesional</a></h1>
 
 <h2> IT projects:</h2>
 
