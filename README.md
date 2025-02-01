@@ -22,12 +22,17 @@
 
 <h2>  Connect with me:</h2>
 
+<a href="https://www.youtube.com/@John13Hernandez" target="_blank">
+    <img align="left" alt="John13Hernandez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-<img align="left" alt="John13Hernandez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="https://x.com/Hernandezjohn_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="john-hernandez-539a331a9/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://x.com/Hernandezjohn_" target="_blank">
+    <img align="left" alt="Hernandezjohn_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-
+<a href="https://www.linkedin.com/in/john-hernandez-539a331a9/" target="_blank">
+    <img align="left" alt="John Hernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
