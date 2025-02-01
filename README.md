@@ -11,7 +11,7 @@
 <h2> Certifications:</h2>
 
 
-[Google IT Support Professional](https://www.credly.com/badges/0e1b1d01-35d9-45f6-b117-c9e0421735b7/linked_in_profile)
+[Google IT Support Professional](https://www.credly.com/badges/3c810eff-1b3b-4484-89e7-2a212d2f4f34/public_url)
 
 [Google CyberSecurity](https://www.credly.com/badges/29821bff-1311-4697-90a5-905d27503625/linked_in_profile)
 
