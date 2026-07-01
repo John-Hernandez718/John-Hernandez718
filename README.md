@@ -22,7 +22,7 @@
 
 <h2>  Connect with me:</h2>
 
-<a href="https://www.youtube.com/channel/UC1L5pLNl_s2oM1evYcRZ-pA" target="_blank">
+<a href="https://www.youtube.com/@Jhernandezcyber" target="_blank">
     <img align="left" alt="John13Hernandez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
