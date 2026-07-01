@@ -26,7 +26,7 @@
     <img align="left" alt="John13Hernandez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<a href="https://x.com/Hernandezjohn_" target="_blank">
+<a href="https://x.com/Jhernandezcyber" target="_blank">
     <img align="left" alt="Hernandezjohn_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
