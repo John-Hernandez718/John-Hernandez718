@@ -1,158 +1,91 @@
-<h1 align="left">John Hernandez</h1>
+# John Hernandez
 
-<h2 align="left">
-Cybersecurity & Enterprise Technology Professional
-</h2>
+## Security Operations & GRC Technologist | Detection Engineering • Operational Risk • Audit Readiness
 
-<h3 align="left">
-Security Operations | Cloud Security | Infrastructure | Network Security | VM/GRC
-</h3>
+### Cloud Security | Detection Engineering | Operational Risk | Infrastructure Hardening
 
-<p>
-I build and document practical cybersecurity and enterprise technology projects focused on security operations, cloud security, network visibility, infrastructure monitoring, vulnerability management, and audit-ready technical documentation.
-</p>
+I deliver practical, evidence-based security operations and enterprise technology solutions that reduce operational risk, validate control effectiveness, and produce audit-ready documentation for regulated environments.
 
-<p>
-My work combines hands-on technical labs with enterprise-focused documentation, helping demonstrate practical skills across SecOps, networking, systems administration, cloud security, and governance/risk/compliance workflows.
-</p>
+My work pairs hands-on cloud and infrastructure implementation with structured technical documentation to demonstrate capabilities in detection engineering, security monitoring, hardening validation, and governance workflows.
 
 ---
+## Core Competencies
 
-<h2>Professional Focus</h2>
-
-<ul>
-  <li>Security Operations and Incident Detection</li>
-  <li>Azure Sentinel, Log Analytics, and KQL</li>
-  <li>Network Security and Traffic Analysis</li>
-  <li>Linux and Infrastructure Administration</li>
-  <li>Vulnerability Management and Remediation Tracking</li>
-  <li>GRC Evidence, Audit Readiness, and Technical Documentation</li>
-  <li>Enterprise Technology Systems and Operational Risk</li>
-</ul>
+- **Detection Engineering & Security Operations** — Azure Sentinel, Log Analytics, KQL, alert tuning, incident documentation, metrics-driven analysis
+- **Cloud Security & Hardening Validation** — Azure architecture, NSG design, Private Endpoints, attack surface reduction, before/after control effectiveness measurement
+- **GRC & Audit Readiness** — Technical documentation, evidence collection, risk reduction reporting, framework-aligned artifacts
+- **Network Visibility & Analysis** — Traffic inspection, protocol analysis, troubleshooting foundations, security monitoring workflows
+- **Infrastructure & Systems Administration** — Linux/Windows environments, VM deployment, log pipelines, foundational automation
+- **Operational Risk Focus** — Quantified risk reduction, compliance support, continuous improvement orientation
 
 ---
+## Featured Lab
 
-<h2>Featured Projects</h2>
+### Azure SOC + Honeynet Lab
 
-<h3>Azure SOC + Honeynet Lab</h3>
+Architected and instrumented a honeynet in Microsoft Azure to simulate adversary activity, ingest telemetry into Microsoft Sentinel, and empirically validate security control effectiveness through pre- and post-hardening observation.
 
-<p>
-Cloud-based security operations lab focused on live traffic monitoring, honeynet deployment, log analysis, detection workflows, and incident response documentation.
-</p>
+**Quantified Impact (24-hour observation windows)**
 
-<p>
-<strong>Skills:</strong> Azure, Microsoft Sentinel, Log Analytics, KQL, NSGs, Defender for Cloud, Security Monitoring
-</p>
+| Metric                  | Before Hardening | After Hardening | Reduction |
+|-------------------------|------------------|-----------------|-----------|
+| SecurityEvent           | 90,513           | 110             | >99%      |
+| SecurityIncident        | 267              | 2               | >99%      |
+| Malicious Network Flows | 1,709            | 0               | 100%      |
 
-<a href="https://github.com/John-Hernandez718/actiondetectionlab">View Project</a>
+This lab demonstrates end-to-end capability in cloud security architecture, log analytics, detection workflows, and evidence-based demonstration of risk reduction.
 
-<br/>
+**Technologies & Skills:** Azure (VNet, NSG, Virtual Machines, Log Analytics Workspace, Key Vault, Storage Account), Microsoft Sentinel, KQL, NSG hardening, Private Endpoints, Security Monitoring, Incident Response Documentation, Metrics Analysis & Reporting
 
-<h3>Wireshark Network Analysis</h3>
-
-<p>
-Network traffic analysis project focused on packet inspection, protocol review, troubleshooting, and security visibility.
-</p>
-
-<p>
-<strong>Skills:</strong> Wireshark, TCP/IP, DNS, HTTP/S, Network Troubleshooting, Traffic Analysis
-</p>
-
-<a href="https://github.com/John-Hernandez718/Wireshark">View Project</a>
-
-<br/>
-
-<h3>Python Password Generator</h3>
-
-<p>
-Security-focused Python scripting project demonstrating basic automation, secure password generation concepts, and scripting fundamentals.
-</p>
-
-<p>
-<strong>Skills:</strong> Python, Security Basics, Automation, Scripting
-</p>
-
-<a href="https://github.com/John-Hernandez718/password_generator">View Project</a>
+[View Repository](https://github.com/John-Hernandez718/actiondetectionlab)
 
 ---
+## Supporting Labs
 
-<h2>Verified Credentials</h2>
+### Network Analysis Environment
 
-<ul>
-  <li>
-    <a href="https://www.credly.com/badges/924d31ae-88d7-494a-9a5a-f28cc2ca21c2/public_url">
-      CompTIA Network+
-    </a>
-  </li>
+Configured Ubuntu Linux environment with Wireshark for packet capture and protocol analysis. Establishes foundational capabilities for network traffic visibility, troubleshooting, and security inspection workflows.
 
-  <li>
-    <a href="https://www.credly.com/badges/bdc9fabe-4a15-4071-99a7-78af97f74a59/public_url">
-      CompTIA IT Operations Specialist, CIOS
-    </a>
-  </li>
+**Skills:** Wireshark, TCP/IP stack analysis, DNS/HTTP/S inspection, Linux terminal, network troubleshooting
 
-  <li>
-    <a href="https://www.credly.com/badges/3c810eff-1b3b-4484-89e7-2a212d2f4f34/public_url">
-      CompTIA A+
-    </a>
-  </li>
+[View Repository](https://github.com/John-Hernandez718/Wireshark)
 
-  <li>
-    <a href="https://www.credly.com/badges/986b4204-47f6-40f1-9a61-4dfd3de160e4/public_url">
-      Microsoft Azure Security Engineer Specialization
-    </a>
-  </li>
-
-  <li>
-    <a href="https://badges.peoplecert.org/Badge/en/2/DC550D80-53E5-4018-98B4-77E1676186B9?285">
-      ITIL 4 Foundation
-    </a>
-  </li>
-</ul>
+*Expansion in progress: sample captures, custom display filters, and security-focused analysis examples.*
 
 ---
+## Verified Credentials
 
-<h2>Current Development Roadmap</h2>
-
-<ul>
-  <li>Azure Sentinel and KQL detection workflows</li>
-  <li>Linux administration and enterprise infrastructure labs</li>
-  <li>Cloud security posture and monitoring</li>
-  <li>Vulnerability management and GRC evidence automation</li>
-  <li>Network engineering fundamentals and security operations</li>
-</ul>
+- [Microsoft Azure Security Engineer Specialization](https://www.credly.com/badges/986b4204-47f6-40f1-9a61-4dfd3de160e4/public_url)
+- [CompTIA Network+](https://www.credly.com/badges/924d31ae-88d7-494a-9a5a-f28cc2ca21c2/public_url)
+- [ITIL 4 Foundation](https://badges.peoplecert.org/Badge/en/2/DC550D80-53E5-4018-98B4-77E1676186B9?285)
+- [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/bdc9fabe-4a15-4071-99a7-78af97f74a59/public_url)
+- [CompTIA A+](https://www.credly.com/badges/3c810eff-1b3b-4484-89e7-2a212d2f4f34/public_url) *(Foundational)*
 
 ---
+## Strategic Development Priorities (2026)
 
-<h2>Project Walkthroughs</h2>
-
-<p>
-Technical walkthroughs, lab demonstrations, and project videos will be published through my YouTube channel.
-</p>
-
-<a href="https://www.youtube.com/@Jhernandezcyber">YouTube Channel</a>
-
----
-
-<h2>Portfolio</h2>
-
-<a href="https://hernandez-john.com">hernandez-john.com</a>
+- Detection engineering and KQL analytics in Microsoft Sentinel for reduced mean-time-to-detect and proactive risk identification
+- Infrastructure-as-Code patterns for repeatable, auditable security hardening and deployment
+- Automation of GRC evidence collection, technical artifact generation, and audit trail documentation
+- Advanced network security monitoring, traffic analysis, and anomaly detection methodologies
+- Application of quality systems and operational risk frameworks to security operations workflows
 
 ---
+## Technical Walkthroughs & Demonstrations
 
-<h2>Connect</h2>
+Detailed lab architecture decisions, implementation steps, and project demonstrations are available on YouTube.
 
-<a href="https://www.youtube.com/@Jhernandezcyber" target="_blank">
-    <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+[YouTube Channel](https://www.youtube.com/@Jhernandezcyber)
 
-<a href="https://x.com/Jhernandezcyber/" target="_blank">
-    <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+---
+## Portfolio & Professional Presence
 
-<a href="https://www.linkedin.com/in/john-hernandez-539a331a9/" target="_blank">
-    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+- [Personal Technical Portfolio](https://hernandez-john.com)
+- [LinkedIn](https://www.linkedin.com/in/john-hernandez-539a331a9/)
 
-<br/>
-<br/>
+---
+## Connect
+
+<a href="https://www.youtube.com/@Jhernandezcyber" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="20" height="20" style="margin-right: 8px;"></a>
+<a href="https://x.com/Jhernandezcyber/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="X" width="20" height="20" style="margin-right: 8px;"></a>
+<a href="https://www.linkedin.com/in/john-hernandez-539a331a9/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"></a>
