@@ -104,7 +104,9 @@ Security-focused Python scripting project demonstrating basic automation, secure
   </li>
 
   <li>
-    ITIL 4 Foundation
+    <a href="https://badges.peoplecert.org/Badge/en/2/DC550D80-53E5-4018-98B4-77E1676186B9?285">
+      ITIL 4 Foundation
+    </a>
   </li>
 </ul>
 
